@@ -1,19 +1,23 @@
 {
-  "date": "18th November 2023",
-  "fluxus": {
-    "website": "https://cdn.discordapp.com/attachments/834124689571708948/1175479019634966708/Fluxus_Shomo.apk?ex=656b6125&is=6558ec25&hm=463758e5aee12a1f0b0e32729a04f8b9a5c325efd336ebfafe247587e3b33979&",
+  "date": "25th November 2023",
+  "Fluxus": {
+    "download": "https://cdn.discordapp.com/attachments/834124689571708948/1175479019634966708/Fluxus_Shomo.apk?ex=656b6125&is=6558ec25&hm=463758e5aee12a1f0b0e32729a04f8b9a5c325efd336ebfafe247587e3b33979&",
     "image": "https://fluxteam.net/assets/faviconbutpng.e3767602.png"
   },
-  "delta": {
-    "website": "https://cdn.discordapp.com/attachments/1136619053629308968/1173875428495216690/client_x_601.apk?ex=65658baf&is=655316af&hm=8835f9144b7d3f4465cc193cf8723b33dce68e82ad3424a4dd64ea6e2bb54e82&",
+  "Delta": {
+    "download": "https://cdn.discordapp.com/attachments/1136619053629308968/1173875428495216690/client_x_601.apk?ex=65658baf&is=655316af&hm=8835f9144b7d3f4465cc193cf8723b33dce68e82ad3424a4dd64ea6e2bb54e82&",
     "image": "https://deltaexecutor.in/wp-content/uploads/2023/08/deltaexecutor.in-official-logo.png"
   },
-  "hydrogen": {
-    "website": "https://linkvertise.com/514008/hydrogen-download",
+  "Hydrogen": {
+    "download": "https://linkvertise.com/514008/hydrogen-download",
     "image": "https://hydrogen.us.com/wp-content/uploads/2022/12/hydrogen-executor-logo.png"
   },
-  "arceus X Neo": {
-    "website": "https://cdn.discordapp.com/attachments/834124689571708948/1175480546265149470/Arceus_X_Neo_Shomo.apk?ex=656b6291&is=6558ed91&hm=6f4a687383256ff145e6fd5c20b981b977f92ec7ad726013a8a5064ad237e9f9&",
+  "Arceus X Neo": {
+    "download": "https://cdn.discordapp.com/attachments/834124689571708948/1175480546265149470/Arceus_X_Neo_Shomo.apk?ex=656b6291&is=6558ed91&hm=6f4a687383256ff145e6fd5c20b981b977f92ec7ad726013a8a5064ad237e9f9&",
     "image": "https://arceusx.net/wp-content/uploads/2022/05/arceus-x-logo.webp"
-  }
+  },
+    "Alysse (NO HTTPGET)": {
+    "download": "https://www.mediafire.com/file/2emsekcjfaecdcn/Alysse+BETA+Pre-Release.apk/file",
+    "image": "https://hydrogen.us.com/wp-content/uploads/2022/12/hydrogen-executor-logo.png"
+  },
 }
